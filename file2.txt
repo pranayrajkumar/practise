@@ -1,3 +1,6 @@
 this is 2nd file from practise 2 folder
 
 this is the chnage made from the vm 
+
+made changes from the git editor
+
